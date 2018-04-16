@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_one"
+        android:enabled="true"
+        android:icon="@drawable/action_one"
+        android:title="Trang tin"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_two"
+        android:enabled="true"
+        android:icon="@drawable/action_two"
+        android:title="Video hot"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_three"
+        android:enabled="true"
+        android:icon="@drawable/action_three"
+        android:title="Cá nhân"
+        app:showAsAction="always" />
+
+
+</menu>
